@@ -1,0 +1,159 @@
+(ExpressProject "BinaryClock"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\lib\avr.olb"
+        (Type "Schematic Library"))
+      (File ".\lib\custom.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\binaryclock.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (GND_SIGNAL
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("GND_FIELD SIGNAL"
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (Battery
+      (FullPartName "Battery.Normal")
+      (LibraryName
+         "C:\USERS\PAVEL PETRÁÈEK\ONEDRIVE\PØEDMÌTY\APE\BINARYCLOCK\LIB\CUSTOM.OLB")
+      (DeviceIndex "0"))
+    (PC-GK2.1/SMD
+      (FullPartName "PC-GK2.1/SMD.Normal")
+      (LibraryName
+         "C:\USERS\PAVEL PETRÁÈEK\ONEDRIVE\PØEDMÌTY\APE\BINARYCLOCK\LIB\CUSTOM.OLB")
+      (DeviceIndex "0"))
+    (LD-BZEN-1205
+      (FullPartName "LD-BZEN-1205.Normal")
+      (LibraryName
+         "C:\USERS\PAVEL PETRÁÈEK\ONEDRIVE\PØEDMÌTY\APE\BINARYCLOCK\LIB\CUSTOM.OLB")
+      (DeviceIndex "0"))
+    (ABS25-32.768KHZ
+      (FullPartName "ABS25-32.768KHZ.Normal")
+      (LibraryName
+         "C:\USERS\PAVEL PETRÁÈEK\ONEDRIVE\PØEDMÌTY\APE\BINARYCLOCK\LIB\CUSTOM.OLB")
+      (DeviceIndex "0"))
+    (492S/SM
+      (FullPartName "492S/SM.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\PASSIVEFILTER.OLB")
+      (DeviceIndex "0"))
+    (1R1001
+      (FullPartName "1R1001.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (TACTM-67N-F
+      (FullPartName "TACTM-67N-F.Normal")
+      (LibraryName
+         "C:\USERS\PAVEL PETRÁÈEK\ONEDRIVE\PØEDMÌTY\APE\BINARYCLOCK\LIB\CUSTOM.OLB")
+      (DeviceIndex "0"))
+    (DIODE
+      (FullPartName "DIODE.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (L78M05ACDT
+      (FullPartName "L78M05ACDT.Normal")
+      (LibraryName
+         "C:\USERS\PAVEL PETRÁÈEK\ONEDRIVE\PØEDMÌTY\APE\BINARYCLOCK\LIB\CUSTOM.OLB")
+      (DeviceIndex "0"))
+    (TBA23-12SURKCGKWA
+      (FullPartName "TBA23-12SURKCGKWA.Normal")
+      (LibraryName
+         "C:\USERS\PAVEL PETRÁÈEK\ONEDRIVE\PØEDMÌTY\APE\BINARYCLOCK\LIB\CUSTOM.OLB")
+      (DeviceIndex "0"))
+    (HT16K33-28SOP
+      (FullPartName "HT16K33-28SOP.Normal")
+      (LibraryName
+         "C:\USERS\PAVEL PETRÁÈEK\ONEDRIVE\PØEDMÌTY\APE\BINARYCLOCK\LIB\CUSTOM.OLB")
+      (DeviceIndex "0"))
+    (BATTERY
+      (FullPartName "BATTERY.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("CAP POL"
+      (FullPartName "CAP POL.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (BC817-40L
+      (FullPartName "BC817-40L.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (L78M05/TO220
+      (FullPartName "L78M05/TO220.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\REGULATOR.OLB")
+      (DeviceIndex "0"))
+    (DS1307/SO
+      (FullPartName "DS1307/SO.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\MISC.OLB")
+      (DeviceIndex "0"))
+    (DS1307
+      (FullPartName "DS1307.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\MISC.OLB")
+      (DeviceIndex "0"))
+    (SOJSOC-20x2
+      (FullPartName "SOJSOC-20x2.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\MECHANICAL.OLB")
+      (DeviceIndex "0"))
+    (CON6
+      (FullPartName "CON6.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Users\Pavel Petráèek\OneDrive\Pøedmìty\APE\BinaryClock\binaryclock.dsn")
+      (Path "Design Resources"
+         "C:\Users\Pavel Petráèek\OneDrive\Pøedmìty\APE\BinaryClock\binaryclock.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" ".\lib\custom.olb"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 209"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 1201 52 300")
+        (Scroll "-166 -1")
+        (Zoom "62")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\PAVEL PETRÁÈEK\ONEDRIVE\PØEDMÌTY\APE\BINARYCLOCK\BINARYCLOCK.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Scheme"))))
