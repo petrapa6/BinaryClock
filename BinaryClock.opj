@@ -11,10 +11,16 @@
     (File ".\binaryclock.dsn"
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
-    (CompileFileAddedOrDeleted "x"))
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "VHDL_flow"))
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
     (GND_SIGNAL
       (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -124,20 +130,12 @@
       (FullPartName "SOJSOC-20x2.Normal")
       (LibraryName
          "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\MECHANICAL.OLB")
-      (DeviceIndex "0"))
-    (CON6
-      (FullPartName "CON6.Normal")
-      (LibraryName
-         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "C:\Users\Pavel Petráèek\OneDrive\Pøedmìty\APE\BinaryClock\binaryclock.dsn")
-      (Path "Design Resources"
-         "C:\Users\Pavel Petráèek\OneDrive\Pøedmìty\APE\BinaryClock\binaryclock.dsn"
-         "SCHEMATIC1")
+      (Path "Design Resources" ".\binaryclock.dsn")
+      (Path "Design Resources" ".\binaryclock.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" ".\lib\custom.olb"))
     (HierarchyView)
@@ -149,11 +147,12 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1201 52 300")
-        (Scroll "-166 -1")
-        (Zoom "62")
+        (Placement "44 2 3 -1 -1 -8 -31 52 1041 52 482")
+        (Scroll "-186 -5")
+        (Zoom "79")
         (Occurrence "/"))
       (Path
          "C:\USERS\PAVEL PETRÁÈEK\ONEDRIVE\PØEDMÌTY\APE\BINARYCLOCK\BINARYCLOCK.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "Scheme"))))
+      (Page "Scheme")))
+  (MPSSessionName "Pavel_Petráèek"))
