@@ -137,7 +137,8 @@
       (Path "Design Resources" ".\binaryclock.dsn")
       (Path "Design Resources" ".\binaryclock.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library" ".\lib\custom.olb"))
+      (Path "Design Resources" "Library" ".\lib\custom.olb")
+      (Select "Design Resources" ".\binaryclock.dsn" "SCHEMATIC1" "Scheme"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -147,9 +148,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1041 52 482")
-        (Scroll "-186 -5")
-        (Zoom "79")
+        (Placement "44 2 3 -1 -1 -8 -31 52 1205 52 304")
+        (Scroll "-336 -2")
+        (Zoom "57")
         (Occurrence "/"))
       (Path
          "C:\USERS\PAVEL PETRÁÈEK\ONEDRIVE\PØEDMÌTY\APE\BINARYCLOCK\BINARYCLOCK.DSN")
