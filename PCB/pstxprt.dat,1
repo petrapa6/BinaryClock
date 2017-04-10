@@ -1,0 +1,360 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Apr-09-2017 at 12:21:14 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='BINARYCLOCK';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ + 'TACTM-67N-F_2_TACT67N_TACTM-67N':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS1637@BINARYCLOCK.TACTM-67N-F_2.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins1637@binaryclock.\tactm-67n-f_2.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins1637@binaryclock.\tactm-67n-f_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ - 'TACTM-67N-F_2_TACT67N_TACTM-6_1':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS1657@BINARYCLOCK.TACTM-67N-F_2.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins1657@binaryclock.\tactm-67n-f_2.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins1657@binaryclock.\tactm-67n-f_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BT1 'BATTERY_4_BATCR2032VTM_BATTERY':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS2016@BINARYCLOCK.BATTERY_4.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins2016@binaryclock.\battery_4.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins2016@binaryclock.\battery_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1 'CAP NP_SMD0805_100N':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS42339@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins42339@discrete.\cap np.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins42339@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_SMD0805_100N':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS41865@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins41865@discrete.\cap np.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins41865@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_SMD0805_100N':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS1090@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins1090@discrete.\cap np.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins1090@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_SMD0805_100N':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS28182@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins28182@discrete.\cap np.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins28182@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_SMD0805_100N':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS46293@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins46293@discrete.\cap np.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins46293@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_SMD0805_22P':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS1138@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins1138@discrete.\cap np.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins1138@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_SMD0805_22P':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS1122@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins1122@discrete.\cap np.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins1122@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP POL_CE100-16SMD_100U':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS1179@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins1179@discrete.\cap pol.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins1179@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP POL_UWT0J221MCL6GS_220U':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS28039@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins28039@discrete.\cap pol.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins28039@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'TBA23-12SURKCGKWA_1_TBA23-12SUR':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS1488@BINARYCLOCK.TBA23-12SURKCGKWA_1.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins1488@binaryclock.\tba23-12surkcgkwa_1.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins1488@binaryclock.\tba23-12surkcgkwa_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE_DO214AC_S1M':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS1588@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins1588@discrete.\diode.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins1588@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON6_0_JUMPER6_CON6':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS473@BINARYCLOCK.CON6_0.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins473@binaryclock.\con6_0.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins473@binaryclock.\con6_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'PC-GK2_1.1/SMD_PCGK21SMD_PC-GK2':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS13974@BINARYCLOCK.PC-GK2_1.1/SMD.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins13974@binaryclock.\pc-gk2_1.1/smd.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins13974@binaryclock.\pc-gk2_1.1/smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LS1 'LD-BZEN-1205_0_LD-BZEN-1205_LD-':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS5889@BINARYCLOCK.LD-BZEN-1205_0.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins5889@binaryclock.\ld-bzen-1205_0.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins5889@binaryclock.\ld-bzen-1205_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MODE 'TACTM-67N-F_2_TACT67N_TACTM-6_2':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS24171@BINARYCLOCK.TACTM-67N-F_2.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins24171@binaryclock.\tactm-67n-f_2.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins24171@binaryclock.\tactm-67n-f_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'BC817-40L_0_SOT23_BC817-40L':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS5755@BINARYCLOCK.BC817-40L_0.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins5755@binaryclock.\bc817-40l_0.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins5755@binaryclock.\bc817-40l_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_SMD0805_4K7':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS28851@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins28851@discrete.\r.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins28851@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_SMD0805_4K7':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS54489@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins54489@discrete.\r.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins54489@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_SMD0805_4K7':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS54289@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins54289@discrete.\r.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins54289@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_SMD0805_4K7':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS51319@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins51319@discrete.\r.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins51319@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_SMD0805_4K7':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS54389@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins54389@discrete.\r.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins54389@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_SMD0805_4K7':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS52194@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins52194@discrete.\r.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins52194@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_SMD0805_4K7':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS18092@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins18092@discrete.\r.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins18092@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_SMD0805_4K7':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS40621@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins40621@discrete.\r.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins40621@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_SMD0805_100R':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS1033@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins1033@discrete.\r.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins1033@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SET 'TACTM-67N-F_2_TACT67N_TACTM-6_3':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS23846@BINARYCLOCK.TACTM-67N-F_2.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins23846@binaryclock.\tactm-67n-f_2.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins23846@binaryclock.\tactm-67n-f_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'HT16K33-28SOP_2_SOP28_HT16K33-2':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS1299@BINARYCLOCK.HT16K33-28SOP_2.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins1299@binaryclock.\ht16k33-28sop_2.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins1299@binaryclock.\ht16k33-28sop_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'ATMEGA8-TQ32_4_TQFP32_ATMEGA8-T':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS235@BINARYCLOCK.ATMEGA8-TQ32_4.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins235@binaryclock.\atmega8-tq32_4.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins235@binaryclock.\atmega8-tq32_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'DS1307_1_SO8_DS1307':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS695@BINARYCLOCK.DS1307_1.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins695@binaryclock.\ds1307_1.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins695@binaryclock.\ds1307_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'L78M05ACDT_1_DPAK_L78M05ACDT':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS1559@BINARYCLOCK.L78M05ACDT_1.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins1559@binaryclock.\l78m05acdt_1.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins1559@binaryclock.\l78m05acdt_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 '492S/SM_2_SMDHC49S_12.00M-SMDHC':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS1747@BINARYCLOCK.492S/SM_2.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins1747@binaryclock.\492s/sm_2.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins1747@binaryclock.\492s/sm_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y2 'ABS25-32_0.768KHZ_ABS25KRYSTAL_':;
+
+SECTION_NUMBER 1
+ '@BINARYCLOCK.SCHEMATIC1(SCH_1):INS7198@BINARYCLOCK.ABS25-32_0.768KHZ.NORMAL(CHIPS)':
+ C_PATH='@binaryclock.schematic1(sch_1):ins7198@binaryclock.\abs25-32_0.768khz.normal\(chips)',
+ P_PATH='@binaryclock.schematic1(sch_1):page1_ins7198@binaryclock.\abs25-32_0.768khz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

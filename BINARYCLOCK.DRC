@@ -1,0 +1,45 @@
+Date and Time : 04/05/17 17:49:32
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+ERROR(ORCAP-1616): Reference is invalid for this part + 
+                    SCHEMATIC1, Scheme  (7.40, 2.30) 
+ERROR(ORCAP-1616): Reference is invalid for this part - 
+                    SCHEMATIC1, Scheme  (8.10, 2.30) 
+ERROR(ORCAP-1616): Reference is invalid for this part SET 
+                    SCHEMATIC1, Scheme  (6.70, 2.30) 
+ERROR(ORCAP-1616): Reference is invalid for this part MODE 
+                    SCHEMATIC1, Scheme  (6.00, 2.30) 
+
+Report for Duplicate References
+
+--------------------------------------------------
+Checking Entire Design: BINARYCLOCK 
+--------------------------------------------------
+
+INFO(ORCAP-2211): Check High Speed Properties Syntax
+
+INFO(ORCAP-2212): Check Power Ground Mismatch
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------

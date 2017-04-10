@@ -1,0 +1,131 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : PCB.brd                                       )
+(    Software Version : 17.2S002                                      )
+(    Date/Time        : Mon Apr 10 13:35:37 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/Pavel Petráèek/OneDrive/Pøedmìty/APE/BinaryClock/PCB/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     0.63500                                  DARK 
+  CIRCLE     0.76200                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  CIRCLE     2.10010                                  DARK 
+  SQUARE     1.52400                     0.000 NO     DARK 
+  RECTANGLE  0.50800     x 0.43180       0.000 NO     DARK 
+  RECTANGLE  0.76200     x 2.38800       0.000 NO     DARK 
+  RECTANGLE  0.89990     x 3.50010       0.000 NO     DARK 
+  RECTANGLE  1.27000     x 2.20980      90.000 NO     DARK 
+  RECTANGLE  1.50010     x 2.80010       0.000 NO     DARK 
+  RECTANGLE  1.52400     x 0.33020       0.000 NO     DARK 
+  RECTANGLE  1.52400     x 0.33020      90.000 NO     DARK 
+  RECTANGLE  1.52400     x 0.50800       0.000 NO     DARK 
+  RECTANGLE  1.52400     x 1.01600       0.000 NO     DARK 
+  RECTANGLE  1.70180     x 1.77800       0.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.50800       0.000 NO     DARK 
+  RECTANGLE  1.93040     x 1.21920       0.000 NO     DARK 
+  RECTANGLE  1.93040     x 1.21920      90.000 NO     DARK 
+  RECTANGLE  5.96900     x 6.09600       0.000 NO     DARK 
+  PAD SHAPE  SHA_SOT89                   0.000 NO     DARK 
+  PAD SHAPE  SHA_SOT89                  90.033 NO     DARK 
+  PAD SHAPE  SHA_SOT89                 179.646 NO     DARK 
+  PAD SHAPE  SHA_SOT89                 270.033 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/Pavel Petráèek/OneDrive/Pøedmìty/APE/BinaryClock/PCB/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     0.63500                                  DARK 
+  CIRCLE     0.76200                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  SQUARE     1.52400                     0.000 NO     DARK 
+
+     BOTTOM created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        BOTTOM created with warnings
+
+ ARTWORK had warnings

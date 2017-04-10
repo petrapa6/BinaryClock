@@ -1,0 +1,347 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/Users/Pavel Petráèek/OneDrive/Pøedmìty/APE/BinaryClock/PCB/PCB.brd       |
+|                                                    Mon Apr 10 14:13:55 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  +            pins ADDED TO this new net
+                                 BT1.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_SIGNAL   pins ADDED TO this new net
+                                 +.4            -.4            BT1.3          
+                                 C1.1           C2.2           C3.1           
+                                 C4.2           C5.2           C6.2           
+                                 C7.2           C8.2           C9.2           
+                                 J1.6           J2.3           J2.4           
+                                 MODE.4         Q1.2           SET.4          
+                                 U1.1           U2.3           U2.5           
+                                 U2.21          U3.4           U4.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02068       pins ADDED TO this new net
+                                 J1.2           U2.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02083       pins ADDED TO this new net
+                                 J1.4           U2.17          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02208       pins ADDED TO this new net
+                                 D1.5           U1.20          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02210       pins ADDED TO this new net
+                                 D1.15          U1.17          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02212       pins ADDED TO this new net
+                                 D1.4           U1.21          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02214       pins ADDED TO this new net
+                                 D1.2           U1.18          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02216       pins ADDED TO this new net
+                                 D1.8           U1.22          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02218       pins ADDED TO this new net
+                                 D1.18          U1.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02220       pins ADDED TO this new net
+                                 D1.1           U1.19          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02222       pins ADDED TO this new net
+                                 D1.7           U1.23          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02224       pins ADDED TO this new net
+                                 D1.14          U1.16          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/Users/Pavel Petráèek/OneDrive/Pøedmìty/APE/BinaryClock/PCB/PCB.brd       |
+|                                                    Mon Apr 10 14:13:55 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N02226       pins ADDED TO this new net
+                                 D1.11          U1.24          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02228       pins ADDED TO this new net
+                                 D1.10          U1.25          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02362       pins ADDED TO this new net
+                                 D1.17          U1.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02378       pins ADDED TO this new net
+                                 D1.21          U1.13          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02401       pins ADDED TO this new net
+                                 D1.20          U1.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02499       pins ADDED TO this new net
+                                 D1.24          U1.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02611       pins ADDED TO this new net
+                                 D1.23          U1.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03217       pins ADDED TO this new net
+                                 D1.22          U1.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03241       pins ADDED TO this new net
+                                 D1.19          U1.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03266       pins ADDED TO this new net
+                                 D1.16          U1.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03291       pins ADDED TO this new net
+                                 D1.13          U1.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03316       pins ADDED TO this new net
+                                 D1.3           U1.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03341       pins ADDED TO this new net
+                                 D1.6           U1.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03367       pins ADDED TO this new net
+                                 D1.9           U1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03392       pins ADDED TO this new net
+                                 D1.12          U1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/Users/Pavel Petráèek/OneDrive/Pøedmìty/APE/BinaryClock/PCB/PCB.brd       |
+|                                                    Mon Apr 10 14:13:55 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N04189       pins ADDED TO this new net
+                                 R8.2           U1.27          U2.27          
+                                 U3.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04289       pins ADDED TO this new net
+                                 R7.1           U1.26          U2.28          
+                                 U3.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04939       pins ADDED TO this new net
+                                 BT1.1          U3.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06025       pins ADDED TO this new net
+                                 +.2            -.2            C1.2           
+                                 C2.1           C4.1           C5.1           
+                                 C9.1           J1.1           MODE.2         
+                                 R2.1           R3.2           R4.2           
+                                 R5.1           R6.2           R7.2           
+                                 R8.1           R9.1           SET.2          
+                                 U1.28          U2.4           U2.6           
+                                 U2.18          U3.8           U4.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06344       pins ADDED TO this new net
+                                 C3.2           C8.1           D2.1           
+                                 U4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N08059       pins ADDED TO this new net
+                                 -.1            R2.2           U2.23          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N08379       pins ADDED TO this new net
+                                 +.1            R5.2           U2.24          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N010431      pins ADDED TO this new net
+                                 LS1.1          R9.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N10447       pins ADDED TO this new net
+                                 C6.1           U2.8           Y1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N10454       pins ADDED TO this new net
+                                 C7.1           U2.7           Y1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N11300       pins ADDED TO this new net
+                                 J1.5           R6.1           U2.29          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N14311       pins ADDED TO this new net
+                                 D2.2           J2.1           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/Users/Pavel Petráèek/OneDrive/Pøedmìty/APE/BinaryClock/PCB/PCB.brd       |
+|                                                    Mon Apr 10 14:13:55 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N24135       pins ADDED TO this new net
+                                 R3.1           SET.1          U2.25          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N24605       pins ADDED TO this new net
+                                 MODE.1         R4.1           U2.26          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N28869       pins ADDED TO this new net
+                                 R1.1           U2.13          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N29351       pins ADDED TO this new net
+                                 J1.3           U2.16          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N31755       pins ADDED TO this new net
+                                 Q1.1           R1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N44408       pins ADDED TO this new net
+                                 U3.1           Y2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N44420       pins ADDED TO this new net
+                                 U3.2           Y2.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N057671      pins ADDED TO this new net
+                                 LS1.2          Q1.3           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:/Users/Pavel Petráèek/OneDrive/Pøedmìty/APE/BinaryClock/PCB/PCB.brd       |
+|                                                    Mon Apr 10 14:13:55 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 492S/SM_2_SMDHC49S_12.00M-SMDHC
+ ABS25-32_0.768KHZ_ABS25KRYSTAL_
+ ATMEGA8-TQ32_5_TQFP32_ATMEGA8-T
+ BATTERY_4_BATCR2032VTM_BATTERY
+ BC817-40L_0_SOT23_BC817-40L
+ CAP NP_SMD0805_22P
+ CAP NP_SMD0805_100N
+ CAP POL_CE100-16SMD_100U
+ CAP POL_UWT0J221MCL6GS_220U
+ CON6_0_JUMPER6_CON6
+ DIODE_DO214AC_S1M
+ DS1307_1_SO8_DS1307
+ HT16K33-28SOP_2_SOP28_HT16K33-2
+ L78M05ACDT_1_DPAK_L78M05ACDT
+ LD-BZEN-1205_0_LD-BZEN-1205_LD-
+ PC-GK2_1.1/SMD_PCGK21SMD_PC-GK2
+ R_SMD0805_4K7
+ R_SMD0805_100R
+ TACTM-67N-F_2_TACT67N_TACTM-6_1
+ TACTM-67N-F_2_TACT67N_TACTM-6_2
+ TACTM-67N-F_2_TACT67N_TACTM-6_3
+ TACTM-67N-F_2_TACT67N_TACTM-67N
+ TBA23-12SURKCGKWA_1_TBA23-12SUR
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:/Users/Pavel Petráèek/OneDrive/Pøedmìty/APE/BinaryClock/PCB/PCB.brd       |
+|                                                    Mon Apr 10 14:13:55 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ +                   TACTM-67N-F_2_TACT67N_TACTM-67N 
+ -                   TACTM-67N-F_2_TACT67N_TACTM-6_1 
+ BT1                 BATTERY_4_BATCR2032VTM_BATTERY 
+ C1                  CAP NP_SMD0805_100N   
+ C2                  CAP NP_SMD0805_100N   
+ C3                  CAP NP_SMD0805_100N   
+ C4                  CAP NP_SMD0805_100N   
+ C5                  CAP NP_SMD0805_100N   
+ C6                  CAP NP_SMD0805_22P    
+ C7                  CAP NP_SMD0805_22P    
+ C8                  CAP POL_CE100-16SMD_100U 
+ C9                  CAP POL_UWT0J221MCL6GS_220U 
+ D1                  TBA23-12SURKCGKWA_1_TBA23-12SUR 
+ D2                  DIODE_DO214AC_S1M     
+ J1                  CON6_0_JUMPER6_CON6   
+ J2                  PC-GK2_1.1/SMD_PCGK21SMD_PC-GK2 
+ LS1                 LD-BZEN-1205_0_LD-BZEN-1205_LD- 
+ MODE                TACTM-67N-F_2_TACT67N_TACTM-6_2 
+ Q1                  BC817-40L_0_SOT23_BC817-40L 
+ R1                  R_SMD0805_4K7         
+ R2                  R_SMD0805_4K7         
+ R3                  R_SMD0805_4K7         
+ R4                  R_SMD0805_4K7         
+ R5                  R_SMD0805_4K7         
+ R6                  R_SMD0805_4K7         
+ R7                  R_SMD0805_4K7         
+ R8                  R_SMD0805_4K7         
+ R9                  R_SMD0805_100R        
+ SET                 TACTM-67N-F_2_TACT67N_TACTM-6_3 
+ U1                  HT16K33-28SOP_2_SOP28_HT16K33-2 
+ U2                  ATMEGA8-TQ32_5_TQFP32_ATMEGA8-T 
+ U3                  DS1307_1_SO8_DS1307   
+ U4                  L78M05ACDT_1_DPAK_L78M05ACDT 
+ Y1                  492S/SM_2_SMDHC49S_12.00M-SMDHC 
+ Y2                  ABS25-32_0.768KHZ_ABS25KRYSTAL_ 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:/Users/Pavel Petráèek/OneDrive/Pøedmìty/APE/BinaryClock/PCB/PCB.brd       |
+|                                                    Mon Apr 10 14:13:55 2017  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ +.4                            PRIM_FILE      .\pstchip.dat
+ -.4                            PRIM_FILE      .\pstchip.dat
+ BT1.3                          PRIM_FILE      .\pstchip.dat
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           PRIM_FILE      .\pstchip.dat
+ C9.2                           PRIM_FILE      .\pstchip.dat
+ D1.9                           PRIM_FILE      .\pstchip.dat
+ D2.1                           PRIM_FILE      .\pstchip.dat
+ J1.6                           PRIM_FILE      .\pstchip.dat
+ J2.2                           PRIM_FILE      .\pstchip.dat
+ LS1.2                          PRIM_FILE      .\pstchip.dat
+ MODE.4                         PRIM_FILE      .\pstchip.dat
+ Q1.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ SET.4                          PRIM_FILE      .\pstchip.dat
+ U1.1                           PRIM_FILE      .\pstchip.dat
+ U2.6                           PRIM_FILE      .\pstchip.dat
+ U3.2                           PRIM_FILE      .\pstchip.dat
+ U4.2                           PRIM_FILE      .\pstchip.dat
+ Y1.2                           PRIM_FILE      .\pstchip.dat
+ Y2.4                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  C:/Users/Pavel Petráèek/OneDrive/Pøedmìty/APE/BinaryClock/PCB/PCB.brd       |
+|                                                    Mon Apr 10 14:13:55 2017  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :     152                                        |
+|       Comp definitions added:      23                                        |
+|       Components added      :      35                                        |
+|       Slot property added   :      35                                        |
+|                                                                              |
+|   Total ECO changes reported:     245                                        |
+|------------------------------------------------------------------------------|
